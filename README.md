@@ -4,7 +4,7 @@
 - Major tasks/activities
     1. Finalizing group member
         - FullStack Developer: Ciel Wu
-        - FullStack Developer: 
+        - FullStack Developer: Yushu Liu
     2. Finalizing product idea and finish proposal
         - Product Idea
             - Intro: a native mobile app for product review
