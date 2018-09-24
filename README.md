@@ -1,6 +1,6 @@
 # makeup-review-app
 
-### sprint 09/20/2018
+### sprint 09/20/2018 - 10/01/2018
 - Major tasks/activities
     1. Finalizing group member
         - FullStack Developer: Ciel Wu
@@ -21,7 +21,25 @@
 - Individual Contributions
     - We discussed the idea and write the proposal together
     
+- Minimum Features
+    - User Login/Logout
+    - User Profile
+    - Write Post(Words & Photos)
+    - See other's Post
+
+- Expected Features
+    - Friend Function
+    - Private Chat Function
+    - Post Comment Function
+    - Likes/Dislikes Function
+    - Post Collect(Save) Function
+    - Search Functions
+    - Post With Tags
+    
+- Reach Features
+    - Explore/Recommendation by Interests/Posts You've Liked
+    
 - Next sprint Goals(by October 2nd)
-    - design Database Schema, ER diagram
-    - design UI, wireframe
-    - setup FrontEnd and BackEnd
+    - Yushu: design Database Schema, ER diagram
+    - Ciel: design UI, wireframe, website structure design
+    - Yushu & Ciel: setup FrontEnd and BackEnd
