@@ -21,7 +21,7 @@
 - Individual Contributions
     - We discussed the idea and write the proposal together
     
-- Next sprint Goals
+- Next sprint Goals(by October 2nd)
     - design Database Schema, ER diagram
     - design UI, wireframe
     - setup FrontEnd and BackEnd
