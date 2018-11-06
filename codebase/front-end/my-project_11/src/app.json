@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/signin/main",
+    "pages/signup/main",
+    "pages/profile/main",
+    "pages/posts/main",
+    "pages/newpost/main",
+    "pages/otherProfile/main",
+    "pages/users/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "selectedColor": "#000000",
+    "list": [{
+      "pagePath": "pages/posts/main",
+      "text": "posts"
+    },{
+      "pagePath": "pages/newpost/main",
+      "text": "new"
+    },{
+      "pagePath": "pages/profile/main",
+      "text": "profile"
+    }]
+  }
+}
