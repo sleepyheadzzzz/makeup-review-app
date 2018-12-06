@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/signin/main",
+    "pages/signup/main",
+    "pages/profile/main",
+    "pages/posts/main",
+    "pages/newpost/main",
+    "pages/otherProfile/main",
+    "pages/users/main",
+    "pages/search/main",
+    "pages/comments/main",
+    "pages/liked/main",
+    "pages/messages/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "selectedColor": "#000000",
+    "list": [{
+      "iconPath": "/static/images/iconBar/posts2.png",
+      "selectedIconPath": "/static/images/iconBar/posts.png",
+      "pagePath": "pages/posts/main",
+      "text": "posts"
+    },{
+      "iconPath": "/static/images/iconBar/search2.png",
+      "selectedIconPath": "/static/images/iconBar/search.png",
+      "pagePath": "pages/search/main",
+      "text": "search"
+    },{
+      "iconPath": "/static/images/iconBar/add2.png",
+      "selectedIconPath": "/static/images/iconBar/add.png",
+      "pagePath": "pages/newpost/main",
+      "text": "new"
+    },{
+      "iconPath": "/static/images/iconBar/like2.png",
+      "selectedIconPath": "/static/images/iconBar/like.png",
+      "pagePath": "pages/liked/main",
+      "text": "liked"
+    },{
+      "iconPath": "/static/images/iconBar/profile2.png",
+      "selectedIconPath": "/static/images/iconBar/profile.png",
+      "pagePath": "pages/profile/main",
+      "text": "profile"
+    }]
+  }
+}
