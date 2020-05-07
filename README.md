@@ -1,5 +1,7 @@
 # makeup-review-app
 
+![demo](https://lh3.googleusercontent.com/kvrfCR4t228dyxLN0tczlrMnGQJcxWeaTEuLZeC2HWttJxEYYAvHeavoSZ2g5w_znqe0C61bYNv40-SePn03=w2750-h2194-rw "Demo")
+
 ### sprint 09/20/2018 - 10/01/2018
 - Major tasks/activities
     1. Finalizing group member
